@@ -67,7 +67,7 @@ While building this project, I focused on:
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/mounika1000/smart-task-manager.git
 
 ### 2. Run Backend
 
